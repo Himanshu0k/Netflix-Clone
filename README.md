@@ -153,13 +153,19 @@ Frontend
 
 - You can modify the UI components (React) or backend routes as needed.
 
-# Screenshot
+## Screenshot
 
-- ![](assests/Screenshot%202025-03-30%20222341.png)
-- ![](assests/Screenshot%202025-03-30%20222401.png)
-- ![](assests/Screenshot%202025-03-30%20222433.png)
-- ![](assests/Screenshot%202025-03-30%20222447.png)
-- ![](assests/Screenshot%202025-03-30%20222508.png)
-- ![](assests/Screenshot%202025-03-30%20222522.png)
-- ![](assests/Screenshot%202025-03-30%20222548.png)
-- ![](assests/Screenshot%202025-03-30%20222609.png)
+![](assests/Screenshot%202025-03-30%20222341.png)
+![](assests/Screenshot%202025-03-30%20222401.png)
+![](assests/Screenshot%202025-03-30%20222433.png)
+![](assests/Screenshot%202025-03-30%20222447.png)
+![](assests/Screenshot%202025-03-30%20222508.png)
+![](assests/Screenshot%202025-03-30%20222522.png)
+![](assests/Screenshot%202025-03-30%20222548.png)
+![](assests/Screenshot%202025-03-30%20222609.png)
+
+
+## Authors
+
+- [@Himanshu0k](https://www.github.com/Himanshu0k)
+
